@@ -1,4 +1,4 @@
-# CodingNomads Java Fundamentals - edit
+# CodingNomads Java Fundamentals - Ryan's edit
 
 This project contains a variety of textbook examples and labs focused on Java fundamentals.
 
